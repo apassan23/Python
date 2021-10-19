@@ -2,3 +2,4 @@ error_poster/
 *.txt
 test.ipynb
 app.py
+__pycache__/
